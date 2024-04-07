@@ -16,7 +16,7 @@ Basic environment and find more...
 npm clone <url>
 ```
 
-2. Install all dependencies. (uses pnpm as default, you can use others package managers which you like, npm or yarn)
+2. Install all dependencies. (uses npm as default, you can use others package managers which you like, pnpm or yarn)
 
 ```
 npm install
