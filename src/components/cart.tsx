@@ -1,5 +1,4 @@
 import { useRecoilState } from 'recoil'
-import { listCartState } from '../recoil/useCartState'
 import { cartAtom } from '../recoil/cartState'
 
 const Cart = () => {
