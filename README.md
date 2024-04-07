@@ -28,4 +28,4 @@ npm install
 npm run dev
 ```
 
-If you like this boilerplate, don't forget to give a star! :star2:
+If you like this repo, don't forget to give a star! :star2:
