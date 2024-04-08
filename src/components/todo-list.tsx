@@ -37,7 +37,7 @@ const TodoList = () => {
       <TodoAdd />
       <ul className="flex flex-col items-center justify-center mt-4">
         {filteredTodos?.map((item) => (
-          <li className="py-2 w-[27%] flex justify-between" key={item.id}>
+          <li className="px-4 py-2 w-full lg:px-0 lg:w-[27%] flex justify-between" key={item.id}>
             <div className="inline-flex items-center w-[70%]">
               <Checkbox checked={item.isCompleted} onCheckedChange={() => checkCompleted(item.id)} className="mr-3" id="terms" />
               <span className={item.isCompleted ? 'mr-2 line-through' : 'mr-2'}>{item.name}</span>
