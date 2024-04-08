@@ -1,6 +1,5 @@
-export interface IAnimeProps {
-  anime: string
-  character: string
-  id: number
-  quote: string
+export interface ITodo {
+  id: string
+  name: string
+  isCompleted: boolean
 }

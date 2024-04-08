@@ -1,16 +1,10 @@
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
-import ListAnime from './components/list-anime'
-import Cart from './components/cart'
+import TodoList from './components/todo-list'
 
 function App() {
   return (
-    <div className="min-h-screen w-full">
-      <Router>
-        <Routes>
-          <Route path="/" element={<ListAnime />} />
-          <Route path="/cart" element={<Cart />} />
-        </Routes>
-      </Router>
+    <div className="min-h-screen w-full mt-10">
+      <h2 className="text-xl font-bold text-center">Todolist - Recoil Example</h2>
+      <TodoList />
     </div>
   )
 }
