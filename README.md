@@ -4,9 +4,16 @@ A project on Vite, React, TypeScript.
 
 Basic environment and find more...
 
+- [RecoilJS (^0.7.7)](https://recoiljs.org/)
 - [Vite (^5.2.0)](https://vitejs.dev/)
 - [React (^18.2.0)](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
+
+## Link References
+
+https://dev.to/sirwanafifi/recoil-with-react-and-typescript-2hif
+
+https://app.sideguide.dev/recoil/tutorial/
 
 ## Get started
 
