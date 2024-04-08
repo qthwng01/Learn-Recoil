@@ -8,6 +8,12 @@ Basic environment and find more...
 - [React (^18.2.0)](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
+## References
+
+https://dev.to/sirwanafifi/recoil-with-react-and-typescript-2hif
+
+https://app.sideguide.dev/recoil/tutorial/
+
 ## Get started
 
 1. Clone this repo or run command below.
